@@ -1,0 +1,66 @@
+#################################
+# Unreal Engine Standard        #
+#################################
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+/Script/
+.ue4gecko
+
+# Content-specific ignores
+# Keep these if you don't want to track large local-only imports
+# or automated collection backups
+Content/Collections/
+Content/Developers/
+/Plugins/Developer/
+
+#################################
+# Audio & Asset Working Files   #
+#################################
+# Ignore raw DAW sessions (REAPER, FL Studio, etc.) 
+# These should live in a separate "SourceAudio" folder outside the UE project
+*.RPP
+*.RPP-bak
+*.reapeaks
+*.flp
+*.bak
+*.autosave
+
+#################################
+# Project & IDE Files           #
+#################################
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.suo
+*.db
+*.opendb
+
+# VS Code
+.vscode/
+
+# Xcode (Mac)
+.DS_Store
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+
+#################################
+# Source Control / Large Files  #
+#################################
+# If you use Git LFS, these are tracked, 
+# otherwise, large binaries might need ignoring
+# *.uasset
+# *.umap
+
+#################################
+# System & Misc                 #
+#################################
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
