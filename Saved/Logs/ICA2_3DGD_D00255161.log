@@ -8145,3 +8145,631 @@ Sampler Limit: 32
 [2026.05.18-23.20.30:136][662]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave RotaryPhone-04...
 [2026.05.18-23.20.30:146][662]LogAudioDerivedData: Display: RotaryPhone-04 compressed to 10.02% (from 345KB to 34KB) with BINKA at Quality 80 with Quality Modifier 1.00
 [2026.05.18-23.20.30:146][662]LogAudio: Display: Chunk stats for (SoundWave /Game/3DGD/AudioImplementation/SoundEffects/Sourced/RotaryPhone-04.RotaryPhone-04: Duration=1.84 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=35477 bytes, ChunkN=0)
+[2026.05.18-23.24.28:046][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11961.179688
+[2026.05.18-23.24.28:189][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.18-23.24.28:189][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11961.314453, Update Interval: 333.718079
+[2026.05.18-23.25.07:627][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.05.18-23.25.08:778][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.25.08:812][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3DGD/UI/WBP_PhoneKeypad] ([2] browsable assets)...
+[2026.05.18-23.25.08:824][139]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3DGD/UI/WBP_PhoneKeypad.WBP_PhoneKeypad]
+[2026.05.18-23.25.08:824][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DGD/UI/WBP_PhoneKeypad]
+[2026.05.18-23.25.08:859][139]LogSavePackage: Moving output files for package: /Game/3DGD/UI/WBP_PhoneKeypad
+[2026.05.18-23.25.08:860][139]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/WBP_PhoneKeypadF1F4ACA74C22FEE2A49AA981020E8F03.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/3DGD/UI/WBP_PhoneKeypad.uasset'
+[2026.05.18-23.25.08:869][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.266 ms (total: 3.38 sec)
+[2026.05.18-23.25.08:901][139]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.25.08:901][139]LogContentValidation: Enabled validators:
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.25.08:901][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.25.08:902][139]AssetCheck: /Game/3DGD/UI/WBP_PhoneKeypad Validating asset
+[2026.05.18-23.25.37:395][929]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 5cf...003
+[2026.05.18-23.25.37:395][929]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2026.05.18-23.25.37:591][945]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 5cf...003 Access[Expires: 2026.05.19-01.25.38 Remaining: 7200.29] Refresh[Expires: 2026-11-14T20:05:15.657Z Remaining: 15539977.66] State: Valid
+[2026.05.18-23.28.58:147][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.05.18-23.28.58:770][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.28.58:803][929]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3DGD/UI/WBP_PhoneKeypad] ([2] browsable assets)...
+[2026.05.18-23.28.58:811][929]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3DGD/UI/WBP_PhoneKeypad.WBP_PhoneKeypad]
+[2026.05.18-23.28.58:811][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DGD/UI/WBP_PhoneKeypad]
+[2026.05.18-23.28.58:846][929]LogSavePackage: Moving output files for package: /Game/3DGD/UI/WBP_PhoneKeypad
+[2026.05.18-23.28.58:846][929]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/WBP_PhoneKeypadF46A7DF44DF6D0CB4044F78524AEDC7F.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/3DGD/UI/WBP_PhoneKeypad.uasset'
+[2026.05.18-23.28.58:857][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.251 ms (total: 3.46 sec)
+[2026.05.18-23.28.58:893][929]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.28.58:893][929]LogContentValidation: Enabled validators:
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.28.58:893][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.28.58:894][929]AssetCheck: /Game/3DGD/UI/WBP_PhoneKeypad Validating asset
+[2026.05.18-23.29.00:073][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.29.00:084][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.29.00:084][982]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.29.00:088][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:088][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:088][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:091][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006564s)
+[2026.05.18-23.29.00:091][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.006601s)
+[2026.05.18-23.29.00:125][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.18-23.29.00:132][982]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.29.00:134][982]LogPlayLevel: PIE: World Init took: (0.002094s)
+[2026.05.18-23.29.00:135][982]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.05.18-23.29.00:135][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.29.00:135][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.29.00:135][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.29.00:135][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.29.00:136][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.29.00:136][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.29.00:136][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.29.00:136][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.29.00:136][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.29.00:136][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.29.00:136][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.29.00:138][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.29.00:156][982]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.29.00:156][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.29.00:156][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.29.00:156][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.29.00:156][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.05.18-23.29.00:156][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.05.18-23.29.00:159][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.05.18-23.29.00:159][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.05.18-23.29.00:159][982]LogInit: FAudioDevice initialized with ID 24.
+[2026.05.18-23.29.00:159][982]LogAudio: Display: Audio Device (ID: 24) registered with world 'GameMenu'.
+[2026.05.18-23.29.00:159][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.05.18-23.29.00:163][982]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.29.00:164][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:164][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:164][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:164][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:165][982]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.29.00
+[2026.05.18-23.29.00:165][982]LogWorld: Bringing up level for play took: 0.002040
+[2026.05.18-23.29.00:168][982]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.05.18-23.29.00:171][982]PIE: Server logged in
+[2026.05.18-23.29.00:174][982]PIE: Play in editor total start time 0.094 seconds.
+[2026.05.18-23.29.00:177][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:177][982]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.00:267][983]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.29.01:086][  3]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.18-23.29.01:086][  3]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.18-23.29.29:147][711]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.18-23.29.29:147][711]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.18-23.29.45:983][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.29.45:983][136]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.29.45:983][136]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.29.45:984][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.29.46:035][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.29.46:041][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.29.46:069][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.18-23.29.46:069][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.05.18-23.29.46:069][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.05.18-23.29.46:071][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.05.18-23.29.46:077][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.29.46:079][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.05.18-23.29.46:087][136]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.29.46:118][137]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.05.18-23.29.48:829][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.29.48:840][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.29.48:840][202]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.29.48:845][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:845][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:845][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:846][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005973s)
+[2026.05.18-23.29.48:846][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.006007s)
+[2026.05.18-23.29.48:877][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.05.18-23.29.48:881][202]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.29.48:882][202]LogPlayLevel: PIE: World Init took: (0.001621s)
+[2026.05.18-23.29.48:883][202]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.29.48:883][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.29.48:883][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.29.48:883][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.29.48:883][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.29.48:883][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.29.48:885][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.29.48:901][202]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.29.48:901][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.29.48:901][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.29.48:901][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.29.48:902][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.05.18-23.29.48:902][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.05.18-23.29.48:906][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.05.18-23.29.48:906][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.05.18-23.29.48:906][202]LogInit: FAudioDevice initialized with ID 25.
+[2026.05.18-23.29.48:906][202]LogAudio: Display: Audio Device (ID: 25) registered with world 'GameMenu'.
+[2026.05.18-23.29.48:906][202]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.05.18-23.29.48:910][202]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.29.48:911][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:911][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:911][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:911][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:912][202]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.29.48
+[2026.05.18-23.29.48:913][202]LogWorld: Bringing up level for play took: 0.002207
+[2026.05.18-23.29.48:915][202]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.05.18-23.29.48:918][202]PIE: Server logged in
+[2026.05.18-23.29.48:920][202]PIE: Play in editor total start time 0.085 seconds.
+[2026.05.18-23.29.48:924][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.48:924][202]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.29.49:009][203]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.29.54:694][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.29.54:694][346]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.29.54:694][346]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.29.54:694][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.29.54:731][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.29.54:736][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.29.54:763][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.29.54:764][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.05.18-23.29.54:764][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.05.18-23.29.54:766][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.05.18-23.29.54:773][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.18-23.29.54:781][346]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.29.54:812][347]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.05.18-23.30.09:567][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.05.18-23.30.10:261][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.30.10:296][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.18-23.30.10:296][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.05.18-23.30.10:321][979]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.05.18-23.30.10:322][979]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/BP_FirstPersonCharacterA1907CAE4AA9B17CADC5068A27F1B111.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.05.18-23.30.10:333][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.365 ms (total: 3.54 sec)
+[2026.05.18-23.30.10:364][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.30.10:364][979]LogContentValidation: Enabled validators:
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.30.10:365][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.30.10:365][979]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.05.18-23.30.11:479][ 36]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.30.11:490][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.30.11:490][ 36]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.30.11:494][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:494][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:495][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:496][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005811s)
+[2026.05.18-23.30.11:496][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.005850s)
+[2026.05.18-23.30.11:527][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.18-23.30.11:535][ 36]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.30.11:537][ 36]LogPlayLevel: PIE: World Init took: (0.001602s)
+[2026.05.18-23.30.11:538][ 36]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.30.11:538][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.30.11:538][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.30.11:538][ 36]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.30.11:538][ 36]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.30.11:538][ 36]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.30.11:540][ 36]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.30.11:556][ 36]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.30.11:556][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.30.11:556][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.30.11:556][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.30.11:557][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.05.18-23.30.11:557][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.05.18-23.30.11:561][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.05.18-23.30.11:561][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.05.18-23.30.11:561][ 36]LogInit: FAudioDevice initialized with ID 26.
+[2026.05.18-23.30.11:561][ 36]LogAudio: Display: Audio Device (ID: 26) registered with world 'GameMenu'.
+[2026.05.18-23.30.11:561][ 36]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.05.18-23.30.11:565][ 36]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:566][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:567][ 36]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.30.11
+[2026.05.18-23.30.11:567][ 36]LogWorld: Bringing up level for play took: 0.001773
+[2026.05.18-23.30.11:569][ 36]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.05.18-23.30.11:572][ 36]PIE: Server logged in
+[2026.05.18-23.30.11:574][ 36]PIE: Play in editor total start time 0.089 seconds.
+[2026.05.18-23.30.11:578][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:578][ 36]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.11:662][ 37]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.30.16:594][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.30.16:594][163]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.30.16:594][163]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.30.16:594][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.30.16:599][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.30.16:605][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.30.16:628][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.18-23.30.16:628][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.05.18-23.30.16:628][163]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.05.18-23.30.16:630][163]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.05.18-23.30.16:633][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.30.16:636][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.05.18-23.30.16:646][163]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.30.16:669][164]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.05.18-23.30.50:709][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.05.18-23.30.51:296][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.30.51:331][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.18-23.30.51:331][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.05.18-23.30.51:358][172]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.05.18-23.30.51:358][172]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/BP_FirstPersonCharacter913ABF8E460671C4C26CA78553268D31.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.05.18-23.30.51:369][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.020 ms (total: 3.61 sec)
+[2026.05.18-23.30.51:400][172]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.30.51:400][172]LogContentValidation: Enabled validators:
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.30.51:400][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.30.51:400][172]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.05.18-23.30.52:561][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.30.52:571][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.30.52:571][229]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.30.52:575][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:575][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:575][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:576][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004857s)
+[2026.05.18-23.30.52:576][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.004886s)
+[2026.05.18-23.30.52:603][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.18-23.30.52:611][229]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.30.52:613][229]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2026.05.18-23.30.52:614][229]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.30.52:614][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.30.52:614][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.30.52:614][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.30.52:614][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.30.52:614][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.30.52:616][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.30.52:631][229]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.30.52:631][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.30.52:631][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.30.52:631][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.30.52:631][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.05.18-23.30.52:631][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.05.18-23.30.52:634][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.05.18-23.30.52:634][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.05.18-23.30.52:634][229]LogInit: FAudioDevice initialized with ID 27.
+[2026.05.18-23.30.52:635][229]LogAudio: Display: Audio Device (ID: 27) registered with world 'GameMenu'.
+[2026.05.18-23.30.52:635][229]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.05.18-23.30.52:638][229]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.30.52:639][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:639][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:639][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:639][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:640][229]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.30.52
+[2026.05.18-23.30.52:641][229]LogWorld: Bringing up level for play took: 0.001967
+[2026.05.18-23.30.52:643][229]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.05.18-23.30.52:647][229]PIE: Server logged in
+[2026.05.18-23.30.52:649][229]PIE: Play in editor total start time 0.082 seconds.
+[2026.05.18-23.30.52:652][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:652][229]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.30.52:745][230]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.30.54:923][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.30.54:923][285]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.30.54:923][285]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.30.54:923][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.30.54:936][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.30.54:941][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.30.54:968][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.18-23.30.54:968][285]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.05.18-23.30.54:968][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.05.18-23.30.54:970][285]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.05.18-23.30.54:973][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.30.54:976][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.05.18-23.30.54:984][285]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.30.55:011][286]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.05.18-23.30.58:124][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12351.433594
+[2026.05.18-23.30.58:267][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.18-23.30.58:267][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12351.566406, Update Interval: 347.513672
+[2026.05.18-23.31.06:489][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.18-23.31.06:947][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.31.06:976][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.05.18-23.31.06:976][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.05.18-23.31.07:003][499]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.05.18-23.31.07:003][499]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/BP_FirstPersonCharacter25C06B194ABE311A9FB88288F6CBE913.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.05.18-23.31.07:012][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.174 ms (total: 3.67 sec)
+[2026.05.18-23.31.07:045][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.31.07:045][499]LogContentValidation: Enabled validators:
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.31.07:045][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.31.07:045][499]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.05.18-23.32.51:452][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.18-23.32.51:456][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3DGD/Levels/GameMenu' took 0.040
+[2026.05.18-23.32.51:458][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3DGD/UI/WBP_PhoneKeypad] ([2] browsable assets)...
+[2026.05.18-23.32.51:476][ 48]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3DGD/UI/WBP_PhoneKeypad.WBP_PhoneKeypad]
+[2026.05.18-23.32.51:476][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DGD/UI/WBP_PhoneKeypad]
+[2026.05.18-23.32.51:517][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3DGD/UI/WBP_PhoneKeypad_Auto6
+[2026.05.18-23.32.51:517][ 48]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/WBP_PhoneKeypad_Auto62FEEBDB34533A74EF3061482C551A172.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/Autosaves/Game/3DGD/UI/WBP_PhoneKeypad_Auto6.uasset'
+[2026.05.18-23.32.51:518][ 48]LogFileHelpers: Auto-saving content packages took 0.061
+[2026.05.18-23.36.37:670][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.05.18-23.36.38:355][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.36.38:393][650]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3DGD/UI/WBP_PhoneKeypad] ([2] browsable assets)...
+[2026.05.18-23.36.38:407][650]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3DGD/UI/WBP_PhoneKeypad.WBP_PhoneKeypad]
+[2026.05.18-23.36.38:407][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DGD/UI/WBP_PhoneKeypad]
+[2026.05.18-23.36.38:449][650]LogSavePackage: Moving output files for package: /Game/3DGD/UI/WBP_PhoneKeypad
+[2026.05.18-23.36.38:450][650]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/WBP_PhoneKeypad8C7CB8054E600DEA4439718D84BDBE8E.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/3DGD/UI/WBP_PhoneKeypad.uasset'
+[2026.05.18-23.36.38:460][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.533 ms (total: 3.78 sec)
+[2026.05.18-23.36.38:494][650]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.36.38:494][650]LogContentValidation: Enabled validators:
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.36.38:494][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.36.38:495][650]AssetCheck: /Game/3DGD/UI/WBP_PhoneKeypad Validating asset
+[2026.05.18-23.36.40:120][708]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.36.40:130][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.36.40:130][708]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.36.40:133][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:133][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:133][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:135][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005058s)
+[2026.05.18-23.36.40:135][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.005089s)
+[2026.05.18-23.36.40:160][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.05.18-23.36.40:167][708]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.36.40:168][708]LogPlayLevel: PIE: World Init took: (0.001861s)
+[2026.05.18-23.36.40:169][708]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.36.40:169][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.36.40:169][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.36.40:169][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.36.40:170][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.36.40:170][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.36.40:172][708]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.36.40:190][708]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.36.40:190][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.36.40:190][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.36.40:190][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.36.40:191][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.05.18-23.36.40:191][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.05.18-23.36.40:193][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.05.18-23.36.40:193][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.05.18-23.36.40:193][708]LogInit: FAudioDevice initialized with ID 28.
+[2026.05.18-23.36.40:193][708]LogAudio: Display: Audio Device (ID: 28) registered with world 'GameMenu'.
+[2026.05.18-23.36.40:193][708]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.05.18-23.36.40:197][708]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.36.40:198][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:199][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:200][708]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.36.40
+[2026.05.18-23.36.40:200][708]LogWorld: Bringing up level for play took: 0.001888
+[2026.05.18-23.36.40:202][708]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.05.18-23.36.40:206][708]PIE: Server logged in
+[2026.05.18-23.36.40:209][708]PIE: Play in editor total start time 0.083 seconds.
+[2026.05.18-23.36.40:213][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:213][708]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.36.40:318][709]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.36.41:368][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.18-23.36.41:368][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.18-23.36.51:968][998]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.18-23.36.51:968][998]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.18-23.36.53:024][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.36.53:024][ 23]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.36.53:025][ 23]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.36.53:025][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.36.53:053][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.36.53:058][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.36.53:085][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.18-23.36.53:085][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.05.18-23.36.53:085][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.05.18-23.36.53:087][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.05.18-23.36.53:093][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.36.53:096][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.05.18-23.36.53:103][ 23]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.36.53:135][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.05.18-23.37.05:367][838]LogEditorTransaction: Undo Move Nodes
+[2026.05.18-23.37.07:004][920]LogEditorTransaction: Undo Move Nodes
+[2026.05.18-23.37.11:317][171]LogEditorTransaction: Undo Move Nodes
+[2026.05.18-23.37.35:421][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12748.753906
+[2026.05.18-23.37.35:556][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.18-23.37.35:556][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12748.881836, Update Interval: 301.375153
+[2026.05.18-23.38.29:091][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.18-23.38.29:838][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.18-23.38.29:867][808]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3DGD/UI/WBP_PhoneKeypad] ([2] browsable assets)...
+[2026.05.18-23.38.29:881][808]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3DGD/UI/WBP_PhoneKeypad.WBP_PhoneKeypad]
+[2026.05.18-23.38.29:881][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DGD/UI/WBP_PhoneKeypad]
+[2026.05.18-23.38.29:928][808]LogSavePackage: Moving output files for package: /Game/3DGD/UI/WBP_PhoneKeypad
+[2026.05.18-23.38.29:928][808]LogSavePackage: Moving '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Saved/WBP_PhoneKeypad85D3BEE44585ECD5204A65BAF5672622.tmp' to '../../../../../../Users/josep/Documents/Unreal Projects/ICA2_3DGD_D00255161/ICA2_3DGD_D00255161/Content/3DGD/UI/WBP_PhoneKeypad.uasset'
+[2026.05.18-23.38.29:940][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.804 ms (total: 3.88 sec)
+[2026.05.18-23.38.29:972][808]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.18-23.38.29:973][808]LogContentValidation: Enabled validators:
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.18-23.38.29:973][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.18-23.38.29:974][808]AssetCheck: /Game/3DGD/UI/WBP_PhoneKeypad Validating asset
+[2026.05.18-23.38.36:408][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.18-23.38.36:420][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.18-23.38.36:420][230]LogPlayLevel: Creating play world package: /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.38.36:425][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:425][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:425][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:426][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005850s)
+[2026.05.18-23.38.36:426][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3DGD/Levels/GameMenu.GameMenu to /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu (0.005900s)
+[2026.05.18-23.38.36:460][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.05.18-23.38.36:465][230]LogChaosDD: Creating Chaos Debug Draw Scene for world GameMenu
+[2026.05.18-23.38.36:466][230]LogPlayLevel: PIE: World Init took: (0.002204s)
+[2026.05.18-23.38.36:468][230]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.18-23.38.36:468][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.18-23.38.36:468][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.18-23.38.36:468][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.18-23.38.36:468][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.18-23.38.36:468][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.18-23.38.36:470][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.18-23.38.36:486][230]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2026.05.18-23.38.36:486][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.18-23.38.36:486][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.18-23.38.36:486][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.18-23.38.36:486][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.05.18-23.38.36:486][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.05.18-23.38.36:489][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.05.18-23.38.36:490][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.05.18-23.38.36:490][230]LogInit: FAudioDevice initialized with ID 29.
+[2026.05.18-23.38.36:490][230]LogAudio: Display: Audio Device (ID: 29) registered with world 'GameMenu'.
+[2026.05.18-23.38.36:490][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.05.18-23.38.36:494][230]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.05.18-23.38.36:495][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:495][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:495][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:495][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:496][230]LogWorld: Bringing World /Game/3DGD/Levels/UEDPIE_0_GameMenu.GameMenu up for play (max tick rate 0) at 2026.05.19-00.38.36
+[2026.05.18-23.38.36:496][230]LogWorld: Bringing up level for play took: 0.001817
+[2026.05.18-23.38.36:498][230]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.05.18-23.38.36:501][230]PIE: Server logged in
+[2026.05.18-23.38.36:504][230]PIE: Play in editor total start time 0.088 seconds.
+[2026.05.18-23.38.36:507][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:507][230]LogStaticMesh: Warning: Invalid material [M_Glass] used on Nanite static mesh [PhoneBooth]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.18-23.38.36:591][231]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.18-23.38.37:513][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.05.18-23.38.37:513][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.05.18-23.38.56:261][720]LogBlueprintUserMessages: [WBP_PhoneKeypad_C_0] You Lose
+[2026.05.18-23.38.57:632][754]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.05.18-23.38.57:632][754]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.05.18-23.38.58:934][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.38.58:934][785]LogWorld: BeginTearingDown for /Game/3DGD/Levels/UEDPIE_0_GameMenu
+[2026.05.18-23.38.58:934][785]LogWorld: UWorld::CleanupWorld for GameMenu, bSessionEnded=true, bCleanupResources=true
+[2026.05.18-23.38.58:935][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.38.58:963][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.18-23.38.58:969][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.18-23.38.58:993][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.18-23.38.58:995][785]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.05.18-23.38.58:995][785]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.05.18-23.38.58:996][785]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.05.18-23.38.59:003][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.18-23.38.59:006][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.05.18-23.38.59:013][785]LogActorComponent: ReregisterComponent: (/Game/3DGD/Levels/GameMenu.GameMenu:PersistentLevel.AmbientSound_1.AudioComponent0) Not currently registered. Aborting.
+[2026.05.18-23.38.59:047][786]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.05.18-23.43.20:096][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13093.399414
+[2026.05.18-23.43.21:096][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.18-23.43.21:096][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13094.066406, Update Interval: 309.911804
