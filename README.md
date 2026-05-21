@@ -1,5 +1,25 @@
 # ICA2_3DGD_D00255161
 
+----------------------------
+Link to GitHub: https://github.com/Swifty433/ICA2_3DGD_D00255161
+
+Link to 3DGD Screencast: https://www.youtube.com/watch?v=sPcn4d1cRyw
+
+Link to Game Audio Implementation Screencast: https://www.youtube.com/watch?v=qc2w_6YXPAQ
+
+Link to Gameplay Demo: https://www.youtube.com/watch?v=6BUyPA-gRwQ
+
+Link to Sound Asset List & Game Asset list: https://github.com/Swifty433/ICA2_3DGD_D00255161#ica2_3dgd_d00255161
+----------------------------
+----------------------------
+**3DGD Stage 1 reflective Feedback:**
+This stage really helped me understand what would make a good game, after talking with my lecturer i was able to understand the narrative plot i had better and how to sell it using the environment with the use of assets and materials within Unreal Engine 5.
+
+**Environmental Storytelling:** Instead of relying on figuring out what the puzzles were by dumb luck, I used layout, props, audio cues, dialogue and asset placement to communicate the plot.
+
+**Substrate Materials:** To give the phone booth a dirty grimy look that felt unkept, I shifted away from basic textures and built a custom Substrate material layers paint and rust using a noise gradient
+----------------------------
+----------------------------
 Sound Assets for Game Audio Implementation.
 Flickeringlight.aiff by scotchio. (2026). Freesound [online]. Available from: https://freesound.org/people/scotchio/sounds/143915/ [accessed 21 February 2026].
 
@@ -32,7 +52,8 @@ Tv Static Noise by humanoidev. (2024). Pixabay [online]. Available from: https:/
 Technology Clock Whirring by Pixabay. (2022). Pixabay [online]. Available from: https://pixabay.com/sound-effects/technology-clock-whirring-100247/ [accessed 21 February 2026].
 
 Vhs Startup by Pixabay. (2022). Pixabay [online]. Available from: https://pixabay.com/sound-effects/film-special-effects-vhs-startup-6088/ [accessed 21 February 2026].
-
+----------------------------
+----------------------------
 3D & 2D Visual Assets
 Notepad with ringbinders by texturing.co. (2024). Sketchfab [online]. Available from: https://sketchfab.com/3d-models/notepad-with-ringbinders-0d6afdab83314807ad3d33da9408f6d2 [accessed 21 February 2026].
 
