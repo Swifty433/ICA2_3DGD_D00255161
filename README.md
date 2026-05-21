@@ -20,6 +20,15 @@ This stage really helped me understand what would make a good game, after talkin
 **Substrate Materials:** To give the phone booth a dirty grimy look that felt unkept, I shifted away from basic textures and built a custom Substrate material layers paint and rust using a noise gradient
 ----------------------------
 ----------------------------
+
+**Tutorials used**
+----------------------------
+(2026). Youtube.com [online]. Available from: https://www.youtube.com/watch?v=u2S_A2F2XpI&t=1081s [accessed 21 May 2026].
+(2026). Youtube.com [online]. Available from: https://www.youtube.com/watch?v=UPSZggFySgk [accessed 21 May 2026].
+‌
+‌
+----------------------------
+
 Sound Assets for Game Audio Implementation.
 Flickeringlight.aiff by scotchio. (2026). Freesound [online]. Available from: https://freesound.org/people/scotchio/sounds/143915/ [accessed 21 February 2026].
 
@@ -56,6 +65,8 @@ Vhs Startup by Pixabay. (2022). Pixabay [online]. Available from: https://pixaba
 ----------------------------
 3D & 2D Visual Assets
 Notepad with ringbinders by texturing.co. (2024). Sketchfab [online]. Available from: https://sketchfab.com/3d-models/notepad-with-ringbinders-0d6afdab83314807ad3d33da9408f6d2 [accessed 21 February 2026].
+
+UI User Interface Pack - Horror. (2025). itch.io [online]. Available from: https://toffeecraft.itch.io/ui-user-interface-pack-horror [accessed 21 May 2026].
 
 Sticky Notes by some_bullshit. (2023). Sketchfab [online]. Available from: https://sketchfab.com/3d-models/sticky-notes-0ce284bb1cef4a9bb28a6abec357d5b5 [accessed 21 February 2026].
 
